@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Tunis",
+    "lat": 36.8065,
+    "lng": 10.1815,
+    "missions_count": 4
+  },
+  {
+    "name": "Sidi Bouzid",
+    "lat": 35.0381,
+    "lng": 9.4849,
+    "missions_count": 1
+  },
+  {
+    "name": "Sfax",
+    "lat": 34.7406,
+    "lng": 10.7603,
+    "missions_count": 1
+  },
+  {
+    "name": "Tataouine",
+    "lat": 32.9297,
+    "lng": 10.4518,
+    "missions_count": 1
+  },
+  {
+    "name": "Sousse",
+    "lat": 35.8254,
+    "lng": 10.6360,
+    "missions_count": 1
+  },
+  {
+    "name": "Kasserine",
+    "lat": 35.1676,
+    "lng": 8.8361,
+    "missions_count": 1
+  },
+  {
+    "name": "Gafsa",
+    "lat": 34.4250,
+    "lng": 8.7842,
+    "missions_count": 1
+  },
+  {
+    "name": "Monastir",
+    "lat": 35.7784,
+    "lng": 10.8262,
+    "missions_count": 1
+  },
+  {
+    "name": "Jendouba",
+    "lat": 36.5000,
+    "lng": 8.7833,
+    "missions_count": 1
+  },
+  {
+    "name": "Kairouan",
+    "lat": 35.6719,
+    "lng": 10.1007,
+    "missions_count": 1
+  }
+]
+

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Orange",
+    "employees_engaged": 180,
+    "missions": 12,
+    "sdgs": ["ODD 11", "ODD 13", "ODD 14"],
+    "description": "Opérateur télécoms engagé dans la RSE avec un focus sur l'environnement et l'inclusion numérique.",
+    "timeline": [
+      {
+        "date": "2024-01-15",
+        "event": "Premier partenariat avec Croissant Rouge Tunisien",
+        "mission": "Nettoyage plage Gammarth"
+      },
+      {
+        "date": "2024-06-20",
+        "event": "Lancement programme environnemental",
+        "mission": "Nettoyage de la médina de Tunis"
+      },
+      {
+        "date": "2025-01-10",
+        "event": "Extension du programme RSE",
+        "mission": "Installation de panneaux solaires"
+      }
+    ]
+  },
+  {
+    "name": "BIAT",
+    "employees_engaged": 220,
+    "missions": 15,
+    "sdgs": ["ODD 4", "ODD 5", "ODD 8"],
+    "description": "Banque tunisienne leader en RSE, particulièrement active dans l'éducation, l'entrepreneuriat et l'autonomisation des femmes.",
+    "timeline": [
+      {
+        "date": "2024-03-01",
+        "event": "Lancement programme éducation",
+        "mission": "Réhabilitation d'une école primaire"
+      },
+      {
+        "date": "2024-09-15",
+        "event": "Programme entrepreneuriat jeunes",
+        "mission": "Formation en entrepreneuriat pour les jeunes"
+      },
+      {
+        "date": "2025-02-20",
+        "event": "Initiative autonomisation femmes",
+        "mission": "Formation des femmes en artisanat"
+      }
+    ]
+  },
+  {
+    "name": "STEG",
+    "employees_engaged": 150,
+    "missions": 10,
+    "sdgs": ["ODD 7", "ODD 13", "ODD 15"],
+    "description": "Société tunisienne d'électricité et de gaz, engagée dans la transition énergétique et la protection de l'environnement.",
+    "timeline": [
+      {
+        "date": "2024-02-10",
+        "event": "Programme énergie renouvelable",
+        "mission": "Installation de panneaux solaires dans un village isolé"
+      },
+      {
+        "date": "2024-11-05",
+        "event": "Initiative reboisement",
+        "mission": "Lutte contre le changement climatique - Reboisement"
+      },
+      {
+        "date": "2025-01-20",
+        "event": "Extension programme solaire",
+        "mission": "Installation de panneaux solaires"
+      }
+    ]
+  },
+  {
+    "name": "Monoprix",
+    "employees_engaged": 95,
+    "missions": 8,
+    "sdgs": ["ODD 2", "ODD 12"],
+    "description": "Chaîne de distribution engagée dans la lutte contre le gaspillage alimentaire et la consommation responsable.",
+    "timeline": [
+      {
+        "date": "2024-04-12",
+        "event": "Programme anti-gaspillage",
+        "mission": "Distribution de repas aux personnes démunies"
+      },
+      {
+        "date": "2025-01-08",
+        "event": "Initiative tri sélectif",
+        "mission": "Sensibilisation au tri sélectif"
+      }
+    ]
+  },
+  {
+    "name": "Amen Bank",
+    "employees_engaged": 120,
+    "missions": 9,
+    "sdgs": ["ODD 4", "ODD 8", "ODD 15"],
+    "description": "Banque tunisienne active dans l'éducation, l'entrepreneuriat et la protection de l'environnement.",
+    "timeline": [
+      {
+        "date": "2024-05-20",
+        "event": "Programme éducation",
+        "mission": "Plantation d'arbres à Sidi Bouzid"
+      },
+      {
+        "date": "2024-10-15",
+        "event": "Soutien entrepreneuriat",
+        "mission": "Formation en entrepreneuriat pour les jeunes"
+      }
+    ]
+  },
+  {
+    "name": "Carrefour",
+    "employees_engaged": 80,
+    "missions": 6,
+    "sdgs": ["ODD 2", "ODD 12"],
+    "description": "Grande surface engagée dans la responsabilité sociale et environnementale.",
+    "timeline": [
+      {
+        "date": "2024-07-10",
+        "event": "Partenariat solidarité",
+        "mission": "Distribution de repas aux personnes démunies"
+      },
+      {
+        "date": "2025-02-15",
+        "event": "Programme environnement",
+        "mission": "Sensibilisation au tri sélectif"
+      }
+    ]
+  }
+]
+
