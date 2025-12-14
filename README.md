@@ -103,11 +103,22 @@ Les données sont stockées dans `/public/data/` :
 
 ## 🚢 Déploiement
 
-Le projet est prêt pour le déploiement sur Vercel :
+Le projet est prêt pour le déploiement sur Vercel.
 
-1. Connectez votre dépôt Git à Vercel
-2. Ajoutez la variable d'environnement `OPENROUTER_API_KEY`
-3. Déployez !
+### Déploiement Rapide
+
+1. **Connectez votre dépôt GitHub à Vercel** :
+   - Allez sur [vercel.com](https://vercel.com)
+   - Cliquez sur "Add New Project"
+   - Importez le dépôt : `https://github.com/Jizel14/Open-Act.git`
+
+2. **Ajoutez les variables d'environnement** :
+   - `OPENROUTER_API_KEY` : `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`
+   - `NEXT_PUBLIC_SITE_URL` : sera défini automatiquement par Vercel
+
+3. **Déployez !** Vercel détectera automatiquement Next.js et déploiera.
+
+📖 **Guide détaillé** : Voir [DEPLOYMENT.md](./DEPLOYMENT.md) pour les instructions complètes.
 
 ## 📝 Licence
 
